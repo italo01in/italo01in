@@ -15,7 +15,6 @@ Tenho 35 anos, sou graduado em Gestão Financeira e possuo especialização em *
 
 * 🐍 Python – análise de dados e automação
 * SQL – manipulação e gestão de bancos de dados
-* TensorFlow – desenvolvimento de modelos de deep learning
 
 **`Interesses`**
 
